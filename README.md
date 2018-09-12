@@ -1,2 +1,2 @@
 # WiniumDesktopDemo
-Winium.Desktop demo project. (VS2017, C#, Win10)
+Winium.Desktop demo project. (VS2017, C#, Win8)
